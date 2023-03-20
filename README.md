@@ -1,2 +1,2 @@
-# aws-cloud-practitioner-exam-notes
+# AWS Cloud Practitioner Exam
 Notes for AWS Cloud Practitioner Exam
