@@ -13,6 +13,8 @@ Notes for AWS Cloud Practitioner Exam Notes
 - [Elastic Load Balancer and Auto Scaling Groups](05-elb-and-asb.md)
 - [S3](06-s3.md)
 - [Databases and Analytics](07-database-analytics.md)
+- [Other Compute Services](08-other-compute-services.md)
+- [Deployments and Managing Infrastructure](09-deployments-managing-infra.md)
 
   
   
