@@ -1,4 +1,5 @@
 # AWS Cloud Practitioner Exam
+
 Notes for AWS Cloud Practitioner Exam Notes
 
 ## Resources
@@ -15,6 +16,9 @@ Notes for AWS Cloud Practitioner Exam Notes
 - [Databases and Analytics](07-database-analytics.md)
 - [Other Compute Services](08-other-compute-services.md)
 - [Deployments and Managing Infrastructure](09-deployments-managing-infra.md)
+- [AWS Global Infrastructure](10-aws-global-infrastructure.md)
+- [Cloud Integrations](11-cloud-integrations.md)
+- [Cloud Monitoring](12-cloud-monitoring.md)
 
   
   
