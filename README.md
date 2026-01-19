@@ -19,6 +19,8 @@ Notes for AWS Cloud Practitioner Exam Notes
 - [AWS Global Infrastructure](10-aws-global-infrastructure.md)
 - [Cloud Integrations](11-cloud-integrations.md)
 - [Cloud Monitoring](12-cloud-monitoring.md)
+- [VPC and Networking](13-vpc-and-networking.md)
+- [Security and Compliance](14-secrity-and-compliance.md)
 
   
   
