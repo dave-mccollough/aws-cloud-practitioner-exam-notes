@@ -2,9 +2,7 @@
 
 Notes for AWS Cloud Practitioner Exam Notes
 
-## Resources
-
-[Udemy Course](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+## Notes
 
 - [What is cloud Computing](01-what-is-cloud-computing.md)
 - [IAM](02-iam.md)
@@ -21,6 +19,10 @@ Notes for AWS Cloud Practitioner Exam Notes
 - [Cloud Monitoring](12-cloud-monitoring.md)
 - [VPC and Networking](13-vpc-and-networking.md)
 - [Security and Compliance](14-secrity-and-compliance.md)
+- [Machine Learning](15-machine-learning.md)
+- [Account Management](16-account-management.md)
+- [Advanced Identity](17-advanced-identity.md)
+- [Other Services](18-other-services.md)
 
   
   
